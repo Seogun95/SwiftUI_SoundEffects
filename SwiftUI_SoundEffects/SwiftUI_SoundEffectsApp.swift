@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_SoundEffectsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            sounds()
         }
     }
 }
